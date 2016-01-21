@@ -1,8 +1,16 @@
+body {
+  background-color: orange;
+}
+
 h1 {
   color: red;
 }
 
+body {
+  font-family: sans-serif;
+}
+
 .column {
-  width: 500px;
+  width: 300px;
   float: left;
 }
